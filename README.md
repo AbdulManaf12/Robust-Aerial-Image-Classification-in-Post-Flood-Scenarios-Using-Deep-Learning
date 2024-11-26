@@ -4,6 +4,8 @@
 
 (Provide a brief description of the project objectives, methods, and key findings.)
 
+![Methodology Diagram](<img/Classification(Focus).png>)
+
 ## Dataset
 
 The datasets utilized in this study are comprised of aerial images categorized into flooded and non-flooded classes from multiple sources. The dataset breakdown is as follows:
