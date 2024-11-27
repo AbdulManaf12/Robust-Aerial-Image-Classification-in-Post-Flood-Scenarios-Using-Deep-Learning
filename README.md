@@ -38,6 +38,14 @@ These results indicate that EfficientNetB3 consistently performs well across dif
 
 Under process, updates will follow.
 
-## Contact
+## Contact Info
 
-(Include contact information for further inquiries.)
+For any questions or feedback regarding this project, please feel free to contact the authors:
+
+- Abdul Manaf \
+   LinkedIn: https://www.linkedin.com/in/abdulmanaf12/ \
+   Email: abdulmanafsahito@gmail.com
+
+- Nimra Mughal \
+   LinkedIn: https://www.linkedin.com/in/nimra-mughal-cs/ \
+   Email: nimra.mughal.16@gmail.com
